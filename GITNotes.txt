@@ -1,1 +1,2 @@
 GIT is a version control system
+GIT Hub is server and GIT is client
